@@ -1,8 +1,8 @@
 # rtorrent-cleaner
 
-rtorrent-cleaner offer you a fast way to compare all files in your download directory and all torrent currently managed by your rtorrent instance.
+rtorrent-cleaner offers you a fast way to compare all the files in your download directory and all the torrents currently managed by your rtorrent instance.
 
-rtorrent-cleaner use ruTorrent RPC API.
+rtorrent-cleaner uses ruTorrent RPC API.
 
 ## Installation
 
